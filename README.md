@@ -90,7 +90,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/cadchan04/Flixster/blob/main/Kapture%202023-02-01%20at%2021.52.23.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/cadchan04/Flixster/blob/main/Kapture%202023-02-05%20at%2016.59.33.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap.  
